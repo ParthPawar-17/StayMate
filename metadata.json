@@ -1,0 +1,8 @@
+{
+  "name": "StayMate - Student Accommodation & PG Finder",
+  "description": "Find affordable, verified PGs, hostels, and shared student housing near top colleges with real-time filters, virtual tours, and student reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
